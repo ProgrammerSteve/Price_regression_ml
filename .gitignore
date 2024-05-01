@@ -15,6 +15,8 @@ data/bluebook-for-bulldozers/TrainAndValid.csv
 data/bluebook-for-bulldozers/Valid.7z
 data/bluebook-for-bulldozers/Valid.csv
 
+data/bluebook-for-bulldozers/train_tmp.csv
+
 *.bundle.*
 lib/
 node_modules/
