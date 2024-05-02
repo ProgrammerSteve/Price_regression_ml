@@ -1,4 +1,4 @@
-# This jupyter notebook will be used to calculate the price of X using a regression model
+# This jupyter notebook will be used to calculate the price of bulldozers using a regression model
 
 - To create env folder for conda
 ```conda create --prefix ./env```

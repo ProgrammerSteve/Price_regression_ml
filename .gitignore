@@ -1,6 +1,8 @@
 env/
 __MACOSX
 
+data/bluebook-for-bulldozers/test_predictions.csv
+
 data/bluebook-for-bulldozers/.ipynb_checkpoints
 data/bluebook-for-bulldozers/Machine_Appendix
 
